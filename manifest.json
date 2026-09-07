@@ -1,0 +1,19 @@
+{
+  "name": "إحصائيات القرآن الكريم",
+  "short_name": "إحصائيات القرآن",
+  "description": "لوحة تفاعلية لإحصاءات سور وآيات وكلمات وحروف القرآن الكريم، مع تبويب ترقيم لحساب الجُمَّل",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0d1b17",
+  "theme_color": "#0d1b17",
+  "lang": "ar",
+  "dir": "rtl",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
